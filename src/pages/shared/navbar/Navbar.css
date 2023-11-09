@@ -1,0 +1,24 @@
+#navbar-items .active{
+    color: #EEFF25;
+}
+
+#navbar-items li a{
+    padding: 5px 10px;
+    border-radius: 3px;
+    transition: 0.06s ease-in-out;
+}
+#navbar-items li:hover a{
+    background: #edff253a;
+}
+#navbar-items li:hover .active{
+    background: transparent;
+}
+#navbar-items #signout{
+    padding: 5px 10px;
+    transition: 0.06s ease-in-out;
+    /* background: red; */
+}
+
+#navbar-items #signout:hover{
+    background: #edff253a;
+}

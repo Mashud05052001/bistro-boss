@@ -1,0 +1,12 @@
+#homeBanner .slide img{
+    height: 700px;
+    background-size: contain !important;
+}
+#homeBanner .carousel{
+    text-align: center;
+}
+#homeBanner .control-arrow{
+    width: 60px;
+}
+#homeBanner .thumbs{
+}
